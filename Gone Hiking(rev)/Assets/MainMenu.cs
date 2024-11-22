@@ -15,4 +15,14 @@ public class MainMenu : MonoBehaviour
         Debug.Log("QUIT!");
         Application.Quit();
     }
+    public GameObject MainMenuUI;
+
+    // Update is called once per frame
+    void Update(){
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+        MainMenuUI.SetActive(!MainMenuUI.activeSelf); // Toggle the menu visibility
+
+        }
+    }
 }
