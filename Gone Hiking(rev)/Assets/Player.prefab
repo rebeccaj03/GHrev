@@ -5024,9 +5024,9 @@ MonoBehaviour:
   wallJumped: 0
   wallSlide: 0
   side: 1
-  jumpParticle: {fileID: 2028946077710896373}
-  wallJumpParticle: {fileID: 2028946078763175506}
-  slideParticle: {fileID: 2028946077171830304}
+  jumpParticle: {fileID: 0}
+  wallJumpParticle: {fileID: 0}
+  slideParticle: {fileID: 0}
 --- !u!1 &2028946077710896368
 GameObject:
   m_ObjectHideFlags: 0
