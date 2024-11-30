@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bbd2c1887a808da4b8f0a6cec8d8b890, type: 3}
-  m_Name: NarrationLine_Dialogue2_2
+  m_Script: {fileID: 11500000, guid: d7fa3f7e7215dc04d955216982514e23, type: 3}
+  m_Name: Narration 2 Line
   m_EditorClassIdentifier: 
-  m_Speaker: {fileID: 11400000, guid: 9dd3082631238414f8db3e72be080f21, type: 2}
-  m_Text: I choose number 1!
+  m_Speaker: {fileID: 11400000, guid: c7d91ad04857b495c94882034a36df2b, type: 2}
+  m_Text: Kill the bear, leave it be, or call it pretty

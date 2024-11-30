@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: abaa1d01ebe65f6469c9f7f9cd89f2dc, type: 3}
-  m_Name: Dialogue2_Node3
+  m_Script: {fileID: 11500000, guid: d7fa3f7e7215dc04d955216982514e23, type: 3}
+  m_Name: Dialogue5 Narration Line
   m_EditorClassIdentifier: 
-  m_DialogueLine: {fileID: 11400000, guid: 5072cf2adee7a7c44bfcbc19ecf94fd6, type: 2}
-  m_NextNode: {fileID: 0}
+  m_Speaker: {fileID: 0}
+  m_Text: You made it to the top of the mountain. I am the protector

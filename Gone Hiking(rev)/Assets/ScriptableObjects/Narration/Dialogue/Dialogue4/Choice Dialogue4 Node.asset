@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19a3bde9485d4514cb583d6fd363f764, type: 3}
+  m_Name: Choice Dialogue4 Node
+  m_EditorClassIdentifier: 
+  m_DialogueLine: {fileID: 11400000, guid: 1a9c1fb70e30f453b87b6b5125d2f332, type: 2}
+  m_Choices:
+  - m_ChoicePreview: Kill
+    m_ChoiceNode: {fileID: 0}
+  - m_ChoicePreview: Leave it alone
+    m_ChoiceNode: {fileID: 0}

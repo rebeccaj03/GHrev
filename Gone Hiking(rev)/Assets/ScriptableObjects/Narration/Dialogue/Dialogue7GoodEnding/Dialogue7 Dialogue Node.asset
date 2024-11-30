@@ -9,8 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d7fa3f7e7215dc04d955216982514e23, type: 3}
-  m_Name: NarrationLine_Dialogue2_1
+  m_Script: {fileID: 11500000, guid: 37bdd210edd0f064a9918b47da2ded62, type: 3}
+  m_Name: Dialogue7 Dialogue Node
   m_EditorClassIdentifier: 
-  m_Speaker: {fileID: 11400000, guid: c7d91ad04857b495c94882034a36df2b, type: 2}
-  m_Text: leave the bear alone, kill it, or call it pretty?
+  m_DialogueLine: {fileID: 11400000, guid: 6949510fc1ad84fd4a803abb7eab203b, type: 2}
+  m_NextNode: {fileID: 0}
